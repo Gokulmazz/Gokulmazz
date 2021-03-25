@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gokulmazz
+-✍ Inspired by Elon musk.. 
 - 👀 I’m interested in learning tech stuffs
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on some 
 - 📫 How to reach me ...
 
 <!---
