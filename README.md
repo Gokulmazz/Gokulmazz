@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gokulmazz 
-- 👀 I’m interested in learning tech stuffs
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on some 
-- 📫 How to reach me ...
+- 😎 I’m a Fullstack web developer
+- 👻 With every line of code i strive to make web a beautifull place 🕊️
+- 
 
 <!---
 Gokulmazz/Gokulmazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
